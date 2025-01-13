@@ -1,0 +1,5 @@
+
+[sncast.wed_8_jan_sn]
+account = "my_uno_game_account"
+accounts-file = "/Users/ankit.agrawal/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+url = "https://starknet-sepolia.public.blastapi.io/rpc/v0_7"
